@@ -1,3 +1,34 @@
+Online Chair Shop
+=================
+
+Welcome to the Online Chair Shop! This web application allows you to browse and purchase chairs from the comfort of your own home. 
+
+Features
+--------
+
+### One-Page Site
+
+Our web application is designed as a one-page site, providing a seamless and straightforward user experience.
+
+### Sorting by Categories
+
+We understand that finding the perfect chair can be overwhelming with so many options. That's why we've implemented a category sorting feature. You can quickly filter chairs based on categories such as dining chairs, office chairs, folding chair. This makes it easier for you to find exactly what you're looking for.
+
+### Add to Cart
+
+Found a chair that caught your eye? Simply add it to your cart with a single click. Our intuitive interface allows you to easily add and remove items from your cart, giving you complete control over your shopping experience.
+
+### Total Sum
+
+As you add chairs to your cart, you can see the total sum updating in real time. This helps you keep track of your purchases and make informed decisions.
+
+### Modal Window
+
+For additional information about a specific chair, you can click on it to open a modal window. The modal provides detailed product descriptions, specifications, and any other relevant information you might need to make a confident purchase.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
