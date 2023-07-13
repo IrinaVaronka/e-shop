@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/e-shop/static/css/main.c37454c3.css",
+    "main.js": "/e-shop/static/js/main.90f42f6b.js",
+    "static/media/pexels-burst-545012.jpg": "/e-shop/static/media/pexels-burst-545012.c18e0b7c68c9fbcf4dbc.jpg",
+    "index.html": "/e-shop/index.html",
+    "main.c37454c3.css.map": "/e-shop/static/css/main.c37454c3.css.map",
+    "main.90f42f6b.js.map": "/e-shop/static/js/main.90f42f6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c37454c3.css",
+    "static/js/main.90f42f6b.js"
+  ]
+}
